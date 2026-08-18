@@ -1,0 +1,2 @@
+# ISO-21502-Foundation-Certification-Project-Management-Essentials
+SO 21502 Foundation Certification introduces essential project management principles based on the ISO 21502 standard. Learn project planning, governance, stakeholder management, risk control, resource coordination, and project delivery practices with SterlingNext. Build a strong foundation for project management roles and certification.
